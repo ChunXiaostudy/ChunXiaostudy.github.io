@@ -110,7 +110,7 @@ Boming Miao, **Chunxiao Li**, Xiaoxiao Wang, Andi Zhang, Rui Sun, Zizhe Wang, Ya
 - *2021.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
 
 # 📖 Educations
-- *2023.09 – 2025.06*, 🎓 M.Sc. in Statistics, Beijing Normal University (graduated).
+- *2023.09 – 2025.06*, 🎓 M.Sc. in Statistics, Beijing Normal University.
 - *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science, University of Science and Technology Beijing.
 
 # 🌱 Interests
