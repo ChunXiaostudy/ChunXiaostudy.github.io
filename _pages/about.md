@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Chunxiao Li. I received my M.Sc. in Statistics from Beijing Normal University, supervised by Prof. Chuanlong Xie. Since June 2025, I have been a research intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/en) (上海人工智能实验室). I will join the joint PhD program between Fudan University and Shanghai Artificial Intelligence Laboratory in September 2026.
+Hi! I'm Chunxiao Li. I received my M.Sc. in Statistics from Beijing Normal University, supervised by Prof. Chuanlong Xie. Since June 2025, I have been a research intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn) (上海人工智能实验室). I will join the joint PhD program between Fudan University and Shanghai Artificial Intelligence Laboratory in September 2026.
 
 My research interests broadly include AI Safety and vision-language models (VLMs).
 
