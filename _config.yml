@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunxiao Li"
-description              : "Graduate student at BNU, working on vision-language models and multimodal reasoning. "
+description              : "Research intern at Shanghai AI Laboratory; incoming PhD student (Fudan–Shanghai AI Lab joint program). "
 repository               : "Chunxiaostudy/chunxiaoli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chunxiao Li"
-  avatar           : "images/photochunxiao.jpg"
-  bio              : "BNU"
-  location         : "Beijing, China"
+  avatar           : "images/cat.jpg"
+  bio              : "Shanghai AI Lab"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uKq2mGkAAAAJ&hl=zh-CN"

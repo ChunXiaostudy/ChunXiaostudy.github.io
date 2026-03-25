@@ -17,28 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Chunxiao Li, a master's student at the Beijing Normal University, majoring in Statistics, under the supervision of Prof. Chuanlong Xie. I am currently a research intern at Qiyuan National Lab, advised by Dr. Yao Zhu.
+Hi! I'm Chunxiao Li. I received my M.Sc. in Statistics from Beijing Normal University, supervised by Prof. Chuanlong Xie. Since June 2025, I have been a research intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/en) (上海人工智能实验室). I will join the joint PhD program between Fudan University and Shanghai Artificial Intelligence Laboratory in September 2026.
 
-My research interests broadly include AI Safety, vision-language models (VLMs). 
-
-**I am currently seeking PhD opportunities and aim to further explore AI safety, explainability, and the development of secure AI communities.**
+My research interests broadly include AI Safety and vision-language models (VLMs).
 
 
 # 🔥 News
-- *2025.03*: 🎉 Our paper **"Towards Annotation-Free Evaluation: KPA-Score for Human Keypoint Detection"** was submitted to **ICCV 2025**! (Co-First author)
-- *2025.03*: 🎉 Our paper **"Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking
-AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV 2025**! (First author)
-- *2025.03*: 🎉 Our paper **"Simplifying Debiasing: Random Feature Regularization as a Key Method"** was submitted to **ICCV 2025**! (First author)
-- *2025.3*: 🎉 One paper on **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** accepted to **CVPR 2025**! (Second author)
-- *2024.11*: 🎉 Our work on **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-first author)
-- *2024.11*: 🎉 Our work on **Prediction of iliac limb occlusion after endovascular aneurysm repair for abdominal aortic aneurysm by anatomical and near-wall hemodynamic characteristics combining numerical simulation and in vitro experiment** has been accepted by **Computer Methods and Programs in Biomedicine, IF=4.9. JCRQ1**! (Co-first author)
+- *2026.09*: I will enroll in the joint PhD program between **Fudan University** and **Shanghai Artificial Intelligence Laboratory**.
+- *2025.06*: I joined **Shanghai Artificial Intelligence Laboratory** as a research intern.
+- *2026.02*: 🎉 Our paper **"TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration"** has been accepted by **CVPR 2026**! (First author)
+- *2025.06*: 🎉 Our paper **"Towards Annotation-Free Evaluation: KPA-Score for Human Keypoint Detection"** has been accepted by **ICCV 2025**! (Co-First author)
+- *2025.06*: 🎉 Our paper **"Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking
+AI-Generated Image Detection in Challenging Scenarios"** has been accepted by **ICCV 2025**! (First author)
+- *2025.3*: 🎉 Our paper **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** has been accepted by **CVPR 2025**! (Second author)
+- *2024.11*: 🎉 Our paper **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-first author)
+- *2024.11*: 🎉 Our paper **Prediction of iliac limb occlusion after endovascular aneurysm repair for abdominal aortic aneurysm by anatomical and near-wall hemodynamic characteristics combining numerical simulation and in vitro experiment** has been accepted by **Computer Methods and Programs in Biomedicine, IF=4.9. JCRQ1**! (Co-first author)
   
 # 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025 (Under Review)</div>
+      <div class="badge">ICCV 2025</div>
       <img src='images/kpa_score.png' alt="KPAScore" width="100%">
     </div>
   </div>
@@ -55,7 +55,7 @@ Xiaoxiao Wang\*, **Chunxiao Li**\*, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zh
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025 (Under Review)</div>
+      <div class="badge">ICCV 2025</div>
       <img src='images/bench.png' alt="Fake Image Detection Benchmark" width="100%">
     </div>
   </div>
@@ -110,10 +110,10 @@ Boming Miao, **Chunxiao Li**, Xiaoxiao Wang, Andi Zhang, Rui Sun, Zizhe Wang, Ya
 - *2021.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
 
 # 📖 Educations
-- *2023.09 – 2025.06 (expected)*, 🎓 M.Sc. in Statistics, Beijing Normal University. 
+- *2023.09 – 2025.06*, 🎓 M.Sc. in Statistics, Beijing Normal University (graduated).
 - *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science, University of Science and Technology Beijing.
 
 # 🌱 Interests
-I enjoy sports like **Muay Thai**, **strength training**, **Brazilian Jiu-Jitsu**, and more. I pursue a robust physique and a free spirit.
+I enjoy sports like **Muay Thai**, **strength training**, **Kick-Boxing**, and more. I pursue a robust physique and a free spirit.
 
 
